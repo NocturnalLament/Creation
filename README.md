@@ -1,5 +1,4 @@
-# File and Folder Manager
-
+# Creation
 A simple command-line tool written in Ruby to manage files and folders. This tool allows you to create files, create folders, delete files, delete folders, and open files in Notepad.
 
 ## Features
