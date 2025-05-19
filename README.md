@@ -60,7 +60,7 @@ ruby main.rb --edit-file <file_name>
 
 2. Navigate to the project directory:
    ```bash
-   cd file-folder-manager
+   cd creation
    ```
 
 3. Run the script:
